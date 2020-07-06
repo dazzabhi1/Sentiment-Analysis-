@@ -1,0 +1,16 @@
+,words,count
+0,sxsw,7724
+1,ipad,2395
+2,google,2110
+3,apple,1883
+4,iphone,1281
+5,store,1205
+6,new,864
+7,austin,794
+8,app,672
+9,circles,549
+10,social,532
+11,launch,518
+12,pop,487
+13,android,483
+14,today,465
